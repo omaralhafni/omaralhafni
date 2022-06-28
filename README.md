@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-weight: 600">
     <img src="./images/everyone.png" height="60px" width="180px" />
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" />
     <br />
     <img src="./images/name.png" height="75px" width="280px" />
 </h1>
