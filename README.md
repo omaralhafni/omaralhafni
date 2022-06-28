@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-weight: 600">
     <img src="./images/everyone.png" height="60px" width="180px" />
-    <img src="./images/hi.webp" height="15px" width="15px" />
+    <img src="./images/hi.webp" height="60px" width="60px" />
     <br />
     <img src="./images/name.png" height="75px" width="280px" />
 </h1>
